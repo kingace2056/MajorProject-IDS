@@ -58,7 +58,7 @@ sudo cp ids /var/www/html/ -r
  python3 home/node_simulator.py
 ```
 
-12. The shell script for tshark is in the home folder of s3r-be-proj-ids.<br/>
+12. The shell script for tshark is in the home folder of be-project.<br/>
 Before you run it, you'll have to replace s3rbeproj with your computer's password.<br/>
 ```bash
  cd home
@@ -71,7 +71,7 @@ chmod -v +x tshark_shell_script.sh
 ```
 
 13. Kill all instances of tshark
-The shell script for kill_all_tshark is in the home folder of s3r-be-proj-ids.<br/>
+The shell script for kill_all_tshark is in the home folder of be-project.<br/>
 Before you run it, you'll have to replace s3rbeproj with your computer's password.
 ```bash
 cd home
