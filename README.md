@@ -6,9 +6,9 @@ The project contains a full stack web app created with React front end and Djang
 
 1. Ensure you have python 3.6.9, node v12.16.0, npm 6.14.5, apache 2.4.29.
 
-2. Clone the repo and cd to s3r-be-proj-ids
+2. Clone the repo and cd to be-project
 ```bash
-cd s3r-be-proj-ids 
+cd be-project
  ```
 
 
