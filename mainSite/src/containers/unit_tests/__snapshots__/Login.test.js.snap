@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="ui center aligned middle aligned grid"
+  style={
+    Object {
+      "height": "100vh",
+    }
+  }
+>
+  <div
+    className="column"
+    style={
+      Object {
+        "maxWidth": 450,
+      }
+    }
+  >
+    <h2
+      className="ui teal center aligned header"
+    >
+      Log-in to your account
+    </h2>
+    <span
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
+    <form
+      className="ui large form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="ui stacked segment"
+      >
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="username"
+              onChange={[Function]}
+              placeholder="Username"
+              type="text"
+              value=""
+            />
+            <i
+              aria-hidden="true"
+              className="user icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <div
+            className="ui fluid left icon input"
+          >
+            <input
+              name="password"
+              onChange={[Function]}
+              placeholder="Password"
+              type="password"
+              value=""
+            />
+            <i
+              aria-hidden="true"
+              className="lock icon"
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+        <button
+          className="ui teal large fluid button"
+          id="login_button"
+          onClick={[Function]}
+        >
+          Login
+        </button>
+      </div>
+    </form>
+    <div
+      className="ui message"
+    >
+      New to us? 
+      <a
+        aria-current={null}
+        href="/signup"
+        onClick={[Function]}
+      >
+        Sign Up
+      </a>
+    </div>
+  </div>
+</div>
+`;

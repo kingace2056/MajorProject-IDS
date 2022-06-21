@@ -1,0 +1,335 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div>
+    <div />
+    <div
+      className="ui vertical segment"
+      style={
+        Object {
+          "padding": "8em 0em",
+        }
+      }
+    >
+      <div
+        className="ui container stackable middle aligned grid"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="eight wide column"
+          >
+            <h3
+              className="ui header"
+              style={
+                Object {
+                  "color": "black",
+                  "fontSize": "3em",
+                }
+              }
+            >
+              Intrusion Detection System
+            </h3>
+            <p
+              style={
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": "1.5em",
+                }
+              }
+            >
+              An intrusion detection system is one such system that can be a building block in making the IOT network as secure as possible, that passively monitors the data exchange in the network and of the network with externals entities and looks for malicious activities that can be classified as an intrusion or attack.
+            </p>
+            <h3
+              className="ui header"
+              style={
+                Object {
+                  "color": "black",
+                  "fontSize": "3em",
+                }
+              }
+            >
+              We care about Protection
+            </h3>
+            <p
+              style={
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": "1.5em",
+                }
+              }
+            >
+              Includes IOT networks like CCTVs, smoke detectors, fire alarms, speaker systems, thermostats, vending machines, etc.
+            </p>
+          </div>
+          <div
+            className="right floated six wide column"
+          >
+            <img
+              alt="ids"
+              size="large"
+              src="IDS.webp"
+            />
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="center aligned column"
+          >
+            <br />
+            <br />
+            <br />
+            <h3
+              className="ui header"
+              style={
+                Object {
+                  "color": "black",
+                  "fontSize": "2em",
+                }
+              }
+            >
+              CHECK OUT THE ATTACKS DETECTED
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui vertical segment"
+      style={
+        Object {
+          "padding": "0em",
+        }
+      }
+    >
+      <div
+        className="ui stackable internally celled equal width grid"
+      >
+        <div
+          className="center aligned row"
+        >
+          <div
+            className="column"
+            style={
+              Object {
+                "display": "flex",
+                "justifyContent": "center",
+                "paddingBottom": "2em",
+                "paddingTop": "2em",
+              }
+            }
+          >
+            <div
+              align="center"
+              className="ui card"
+              onClick={[Function]}
+            >
+              <img
+                alt="ddos"
+                height="200"
+                src="ddos.jpg"
+              />
+              <div
+                className="content"
+              >
+                <div
+                  className="header"
+                >
+                  DDOS ATTACK
+                </div>
+                <div
+                  className="description"
+                >
+                  A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="column"
+            style={
+              Object {
+                "display": "flex",
+                "justifyContent": "center",
+                "paddingBottom": "2em",
+                "paddingTop": "2em",
+              }
+            }
+          >
+            <div
+              className="ui card"
+              onClick={[Function]}
+            >
+              <img
+                alt="dtype"
+                height="200"
+                src="dtype.jpg"
+              />
+              <div
+                className="content"
+              >
+                <div
+                  className="header"
+                >
+                  DATA TYPE PROBING ATTACK
+                </div>
+                <div
+                  className="description"
+                >
+                  Probing is a type of attack in which the intruder scans network devices to determine weakness in topology design or some opened ports and then use them in the future for illegal access to personal information                 
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="column"
+            style={
+              Object {
+                "display": "flex",
+                "justifyContent": "center",
+                "paddingBottom": "2em",
+                "paddingTop": "2em",
+              }
+            }
+          >
+            <div
+              className="ui card"
+              onClick={[Function]}
+            >
+              <img
+                alt="scan"
+                height="200"
+                src="scan.jpg"
+              />
+              <div
+                className="content"
+              >
+                <div
+                  className="header"
+                >
+                  SCAN ATTACK
+                </div>
+                <div
+                  className="description"
+                >
+                  A port scan is an attack that sends client requests to a range of server port addresses on a host, with the goal of finding an active port and exploiting a known vulnerability of that service
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="column"
+            style={
+              Object {
+                "display": "flex",
+                "justifyContent": "center",
+                "paddingBottom": "2em",
+                "paddingTop": "2em",
+              }
+            }
+          >
+            <div
+              className="ui card"
+              onClick={[Function]}
+            >
+              <img
+                alt="wrong"
+                height="200"
+                src="wrong.jpeg"
+              />
+              <div
+                className="content"
+              >
+                <div
+                  className="header"
+                >
+                  WRONG SETUP ATTACK
+                </div>
+                <div
+                  className="description"
+                >
+                  It is a type of attack where attackers attempt to remove the connection or manipulate the connection of the IOT network
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="column"
+            style={
+              Object {
+                "display": "flex",
+                "justifyContent": "center",
+                "paddingBottom": "2em",
+                "paddingTop": "2em",
+              }
+            }
+          >
+            <div
+              className="ui card"
+              onClick={[Function]}
+            >
+              <img
+                alt="mitm"
+                height="200"
+                src="mitm.jpeg"
+              />
+              <div
+                className="content"
+              >
+                <div
+                  className="header"
+                >
+                  MAN IN THE MIDDLE ATTACK
+                </div>
+                <div
+                  className="description"
+                >
+                  It is an attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui vertical segment"
+      style={
+        Object {
+          "padding": "8em 0em",
+        }
+      }
+    >
+      <div
+        className="ui text container"
+      >
+        <h3
+          className="ui header"
+          style={
+            Object {
+              "color": "black",
+              "fontSize": "2em",
+            }
+          }
+        >
+          Overall working of the System
+        </h3>
+        <p
+          style={
+            Object {
+              "color": "#3d3b3b",
+              "fontSize": "1.33em",
+            }
+          }
+        >
+          This IDS is designed to run in the background of an IoT network, where distance data is processed and sent from the node (combination of ultrasonic sensor, Arduino, Nodemcu) to the apache server. The network traffic is monitored using Tshark and dumped into a csv file. The python script in the backend reads this csv file, preprocesses it and feeds it to the ML model. If an intrusion is detected, it is notified to the user on the front end. The ML model Random Forest is used as its accuracy was proven to be better than any other model that was tested. The model was trained using the data collected from the IoT network traffic.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
