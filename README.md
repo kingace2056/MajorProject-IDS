@@ -98,7 +98,7 @@ For selenium testing, Make sure the script addGeckoToUsrBin has permissions to e
 cd home
 chmod -v +x addGeckoToUsrBin.sh
 ```
-# Important nots ,
+# Important notes
 For your own data collection please follow the steps specified in the Thesis , I'd suggest you to read theis completely before running the project. 
 #TODO 
 Use standard dataset to train model , 
