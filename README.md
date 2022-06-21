@@ -100,6 +100,7 @@ chmod -v +x addGeckoToUsrBin.sh
 ```
 # Important notes
 For your own data collection please follow the steps specified in the Thesis , I'd suggest you to read theis completely before running the project. 
-#TODO 
+
+# TODO 
 Use standard dataset to train model , 
 Decrease false positive rate 
